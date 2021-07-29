@@ -1,0 +1,24 @@
+{
+	"name": "firestar-server",
+	"version": "1.0.0",
+	"private": true,
+	"description": "",
+	"author": "",
+	"scripts": {
+		"serve": "cross-env NODE_ENV=develop node server.js"
+	},
+	"main": "index.js",
+	"dependencies": {
+		"big-integer": "^1.6.48",
+		"json-rpc-2.0": "^0.2.16",
+		"koa": "^2.13.1",
+		"koa-bodyparser": "^4.3.0",
+		"koa-router": "^10.0.0",
+		"koa-static": "^5.0.0",
+		"koa-websocket": "^6.0.0",
+		"md5": "^2.3.0",
+		"mysql2": "^2.2.5",
+		"node-fetch": "^2.6.1",
+		"sequelize": "^6.6.2"
+	}
+}

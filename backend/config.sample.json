@@ -1,0 +1,25 @@
+{
+	"DB": {
+		"HOST": "localhost",
+		"PORT": 3306,
+		"USERNAME": "root",
+		"PASSWORD": "root",
+		"NAME": "dbname"
+	},
+	"EPOCH": {
+		"INTERVAL": 300
+	},
+	"LOTUS": {
+		"MINER_ID": "f02",
+		"HOST_NAME_MATCH": "",
+		"HOST_NAME_REPLACE": "",
+		"WORKER_NAME_MATCH": "",
+		"WORKER_NAME_REPLACE": "",
+		"DAEMON_PATH": "",
+		"MINER_PATH": ""
+	},
+	"REQUEST_WAIT": {
+		"HTTP": 1,
+		"LOTUS": 1
+	}
+}

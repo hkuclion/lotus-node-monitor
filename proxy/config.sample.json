@@ -1,0 +1,6 @@
+{
+	"REMOTE_SERVER_URL": "14.215.177.39:80",
+	"LOCAL_LISTEN_IP": null,
+	"LOCAL_LISTEN_PORT": 80,
+	"STATIC_PATH": "../frontend/dist"
+}
